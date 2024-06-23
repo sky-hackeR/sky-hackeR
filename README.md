@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/sky-hackeR?logo=github&style=for-th
 
 # GitHub Contributions
 
-![GitHub Snake](https://github.com/sky-hackeR/snake-readme/raw/main/dist/github-snake.gif)
+![Contribution snake example](https://github.com/sky-hackeR/sky-hackeR/blob/output/github-contribution-grid-snake.svg)
   
 </p>
 
